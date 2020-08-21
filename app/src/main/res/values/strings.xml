@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVCpractice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button01">Button 01</string>
+    <string name="pop01">Pop 01</string>
+    <string name="button02">Button 02</string>
+    <string name="pop02">Pop 02</string>
+</resources>
